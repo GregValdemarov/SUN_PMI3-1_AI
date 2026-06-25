@@ -64,4 +64,4 @@ $$Loss = Loss_{data} + Loss_{PDE} + Loss_{BC}$$
 *   **Выходной слой (Выходная размерность: 1):** возвращает расчетную справедливую стоимость опциона $V$.
 
 ## 4. Jupyter notebook с кодом модели, а также графики ошибкии результатов работы.
-Ноутбук с кодом и результатами модели представлены в файле `[main.ipynb](src=https://github.com/GregValdemarov/SUN_PMI3-1_AI/blob/main/main.ipynb "Основной файл jupyter notebook")`
+Ноутбук с кодом и результатами модели представлены в файле [`main.ipynb`](src=https://github.com/GregValdemarov/SUN_PMI3-1_AI/blob/main/main.ipynb "Основной файл jupyter notebook")
